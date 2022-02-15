@@ -1,4 +1,4 @@
-[![created by lifewatch](https://github.com/lifewatch/sdmpredictors)
+[created by lifewatch](https://github.com/lifewatch/sdmpredictors)
 
 # sdmpredictors: a compilation of species distribution modelling predictors data
 
