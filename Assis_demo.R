@@ -8,7 +8,7 @@ library(geosphere)
 library(rgeos)
 
 # Setting the working directory
-setwd("Projects/seaSurfaceOxygen")
+setwd("jorgeassis dataVisualization master Projects-seaSurfaceOxygen_Data")
 
 # Choose an equal area  projection
 projection <- CRS("+proj=robin +over")
