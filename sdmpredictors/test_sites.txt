@@ -1,0 +1,5 @@
+Name	Lat	Long
+"Fredrikstad, Viken, Norway"	59.17793118	10.67133653
+"Bodø Fjord, Norway"	67.25670214	14.55775011
+"Melrakkaey, Iceland"	65.1161391	-23.3340956
+"Svalbard, Norway"	77.81059932	20.08387315
