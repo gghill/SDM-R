@@ -1,4 +1,5 @@
 # Bio-ORACLE explo
+# based primarily on: https://bio-oracle.org/code.php
 
 require(sdmpredictors)
 require(leaflet)
